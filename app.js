@@ -6,7 +6,7 @@ document.addEventListener('keydown', (event) => {
     setRandomColors()
   }
 })
-
+//aa
 document.addEventListener('click', (event) => {
   const type = event.target.dataset.type
   log   = document.querySelector('#log');
